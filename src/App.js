@@ -22,7 +22,7 @@ function App() {
             }}
           >
             Welcome to{" "}
-            <span style={{ color: "rgb(76, 227, 160)" }}>Entertainment web app</span>{" "}
+            <span style={{ color: "rgb(76, 227, 160)" }}>Devjobs web app</span>{" "}
             This app is under construction ..
           </Hstyle>
         </Cont>
